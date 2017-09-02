@@ -1,0 +1,20 @@
+body {
+	background-image: url("../images/colorfulTracks.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	font-family: 'Vollkorn', serif;
+}
+.jumbotron {
+	height: auto;
+	padding:20px;
+	text-align: center;
+	background-color: rgba(224,222,221, 0.8);
+}
+.card {
+	background-color: rgba(224,222,221, 0.8);	
+	margin-bottom: 20px;
+}
+hr {
+	border-color: white;
+	border-width: 1px;
+}
